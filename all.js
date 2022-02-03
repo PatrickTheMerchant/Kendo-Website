@@ -1,5 +1,5 @@
 // Set title of page
-var clubinfo = " | Cornell Kendo Club";
+var clubinfo = " | UW Madison Kendo Club";
 var path = window.location.pathname;
 var pagename = path.substring(path.lastIndexOf("/") + 1)
 if (pagename == "kendo") pagename = "home";
