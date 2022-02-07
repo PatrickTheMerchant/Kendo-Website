@@ -146,11 +146,13 @@ footer.small {
 }
 
 .footer-mid {
-    width: 170px
+    /*width: 170px;*/
+    width: 10.625em
 }
 
 .footer-right {
-    width: 170px;
+    /*width: 170px;*/
+    width: 10.625em
 }
 
 .footer-right a svg {
