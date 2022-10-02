@@ -147,13 +147,13 @@ footer.small {
 .footer-text {
     color: #adadad;
     font-family: Helvetica;
-    margin: 10px 0;
+    margin: 20px 0;
     background-color: #333
 }
 
 .footer-mid {
-    /*width: 170px;*/
-    width: 10.625em
+    width: 170px;
+    /* width: 10.625em */
 }
 
 .footer-right {
@@ -185,7 +185,7 @@ footer.small {
     margin: 0 30px
 }
 
-.fa-facebook, .fa-youtube {
+.fa-facebook, .fa-youtube, .fa-instagram{
     font-size: 30pt
 }
 
@@ -243,7 +243,7 @@ footer.small {
         font-size: 11pt
     }
 
-    .fa-facebook, .fa-youtube {
+    .fa-facebook, .fa-youtube, .fa-instagram {
         font-size: 18pt
     }
 }
